@@ -46,7 +46,7 @@ Before running this project, make sure you have the following installed:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-forked-repo-url>
+git clone
 cd simple-notes-app/submissions/nzambu
 ```
 
