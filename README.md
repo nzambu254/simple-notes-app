@@ -1,5 +1,8 @@
 # 📝 Simple Notes Application
 
+
+![Uploading Screenshot 2025-10-16 214515.png…]()
+
 A full-stack notes management application built with **React** (Frontend) and **Laravel** (Backend). Users can create, read, update, and delete notes with a clean and intuitive interface.
 
 ---
@@ -92,6 +95,7 @@ php artisan serve
 ```
 
 The backend will run at **http://127.0.0.1:8000**
+![Uploading Screenshot 2025-10-16 214448.png…]()
 
 ---
 
