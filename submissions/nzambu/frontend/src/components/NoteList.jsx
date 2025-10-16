@@ -15,7 +15,7 @@ export default function NoteList({ notes, onEdit, onDelete }) {
           </p>
         </div>
         
-        {/* Sort/Filter Options (placeholder for future functionality) */}
+        {/* Sort/Filter Options */}
         <div className="flex items-center space-x-3">
           <select className="text-sm border border-slate-300 rounded-lg px-3 py-2 text-slate-700 focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
             <option>Sort by: Newest</option>
@@ -60,13 +60,12 @@ export default function NoteList({ notes, onEdit, onDelete }) {
         </div>
       )}
 
-      {/* Load More Section (for future pagination) */}
+      {/* Load More Section*/}
       {notesList.length > 0 && (
         <div className="text-center pt-8 border-t border-slate-200">
           <p className="text-sm text-slate-500">
             Showing all {notesList.length} notes
           </p>
-          {/* Future pagination buttons can go here */}
         </div>
       )}
     </div>
