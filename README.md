@@ -1,7 +1,8 @@
 # 📝 Simple Notes Application
 
 
-![Uploading Screenshot 2025-10-16 214515.png…]()
+<img width="1365" height="729" alt="Screenshot 2025-10-16 214515" src="https://github.com/user-attachments/assets/976174de-0587-482e-9fd2-7cbb021d8a48" />
+
 
 A full-stack notes management application built with **React** (Frontend) and **Laravel** (Backend). Users can create, read, update, and delete notes with a clean and intuitive interface.
 
@@ -75,6 +76,10 @@ cp .env.example .env
 #### Configure database in `.env`:
 
 **For MySQL:**
+
+<img width="1365" height="732" alt="Screenshot 2025-10-16 214448" src="https://github.com/user-attachments/assets/303816bb-c362-435f-ac1b-35398d9de817" />
+
+
 ```env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -95,7 +100,7 @@ php artisan serve
 ```
 
 The backend will run at **http://127.0.0.1:8000**
-![Uploading Screenshot 2025-10-16 214448.png…]()
+
 
 ---
 
